@@ -1,0 +1,55 @@
+# Core
+python-telegram-bot==20.7
+python-dotenv
+httpx
+aiohttp
+
+# AI & APIs
+openai
+anthropic
+replicate
+Pillow
+requests
+
+# Database
+motor
+pymongo
+redis
+aioredis
+
+# Web Framework (Admin Panel)
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+aiofiles
+
+# Security & Utils
+pyjwt
+bcrypt
+cryptography
+python-jose[cryptography]
+
+# Media Processing
+pydub
+gTTS
+SpeechRecognition
+
+# Translation
+deep-translator
+langdetect
+
+# Text Processing
+tiktoken
+
+# Rate Limiting & Caching
+cachetools
+
+# Monitoring & Logging
+loguru
+
+# Utilities
+python-dateutil
+humanize
+emoji
+qrcode
